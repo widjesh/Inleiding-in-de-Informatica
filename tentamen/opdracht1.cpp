@@ -15,12 +15,12 @@ int main() {
 
     do {
         std::cout << "Voer een positief geheel getal in (stop met invoeren als de waarde <= 0 is): ";
-        std::cin >> userInput;
+        std::cin >> userInput; 
 
         if (userInput > 0) {
-            if (userInput % 2 == 0) {
+            if (userInput % 2 == 0) { 
                 evenSum = evenSum + userInput;
-            } else {
+            } else {                       
                 oddSum = oddSum + userInput;
             }
         }

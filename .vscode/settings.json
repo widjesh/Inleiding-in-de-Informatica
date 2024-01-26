@@ -61,6 +61,9 @@
     "chrono": "cpp",
     "compare": "cpp",
     "concepts": "cpp",
-    "algorithm": "cpp"
+    "algorithm": "cpp",
+    "set": "cpp",
+    "__tree": "cpp",
+    "list": "cpp"
   }
 }
